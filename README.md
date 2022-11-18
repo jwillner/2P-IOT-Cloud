@@ -18,3 +18,10 @@ https://docs.portainer.io/start/install/server/docker/linux
 
 ### Install MQTT   
 https://blog.feabhas.com/2020/02/running-the-eclipse-mosquitto-mqtt-broker-in-a-docker-container/
+
+
+### Install MQTT, Influxdb, Telegraf und Grafana   
+https://gist.github.com/lucassardois
+
+https://lucassardois.medium.com/handling-iot-data-with-mqtt-telegraf-influxdb-and-grafana-5a431480217
+
