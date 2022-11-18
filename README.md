@@ -25,3 +25,8 @@ https://gist.github.com/lucassardois
 
 https://lucassardois.medium.com/handling-iot-data-with-mqtt-telegraf-influxdb-and-grafana-5a431480217
 
+
+### Python-Skript eines mQTT-Clients   
+http://www.steves-internet-guide.com/subscribing-topics-mqtt-client/
+
+
