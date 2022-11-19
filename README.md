@@ -32,3 +32,13 @@ http://www.steves-internet-guide.com/subscribing-topics-mqtt-client/
 ### HowTo Grafana, InfluxDB, Telegraf, Mosquitto 
 https://devconnected.com/how-to-install-influxdb-telegraf-and-grafana-on-docker/   
 
+First install docker as above mentioned.   
+Then install Influxdb OSS 2.5 
+https://docs.influxdata.com/influxdb/v2.5/
+install influxdb according this ->
+https://docs.influxdata.com/influxdb/v2.5/install/?t=Linux
+
+https://www.influxdata.com/blog/running-influxdb-2-0-and-telegraf-using-docker/  
+
+
+
