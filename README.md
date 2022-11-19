@@ -29,4 +29,6 @@ https://lucassardois.medium.com/handling-iot-data-with-mqtt-telegraf-influxdb-an
 ### Python-Skript eines mQTT-Clients   
 http://www.steves-internet-guide.com/subscribing-topics-mqtt-client/
 
+### HowTo Grafana, InfluxDB, Telegraf, Mosquitto 
+https://devconnected.com/how-to-install-influxdb-telegraf-and-grafana-on-docker/   
 
