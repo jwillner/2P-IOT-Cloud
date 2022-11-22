@@ -23,7 +23,16 @@ https://blog.feabhas.com/2020/02/running-the-eclipse-mosquitto-mqtt-broker-in-a-
 ### Install MQTT, Influxdb, Telegraf und Grafana   
 https://gist.github.com/lucassardois
 
-https://lucassardois.medium.com/handling-iot-data-with-mqtt-telegraf-influxdb-and-grafana-5a431480217
+https://lucassardois.medium.com/handling-iot-data-with-mqtt-telegraf-influxdb-and-grafana-5a43148021
+
+---> damit das Beispielprojekt erstellt
+---> mosquitto.conf im Container muss editiert werden
+---> telegraf.conf muss editiert werden. 
+
+digitalocean droplet: jowi 852685268526
+digitalocean droplet: root (normales PasswortSchema) 
+account influxdb: admin 852685268526
+account grafana: admin 852685268526
 
 
 ### Python-Skript eines mQTT-Clients   
