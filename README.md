@@ -1,5 +1,7 @@
 # 2P-IOT-Cloud
 
+# https://learnembeddedsystems.co.uk/easy-raspberry-pi-iot-server
+
 ### Install a digital ocean droplet ubuntu 20.04   
 https://docs.digitalocean.com/tutorials/recommended-droplet-setup/   
 
