@@ -20,6 +20,10 @@ https://docs.portainer.io/start/install/server/docker/linux
 
 ### Install MQTT   
 https://blog.feabhas.com/2020/02/running-the-eclipse-mosquitto-mqtt-broker-in-a-docker-container/
+https://blog.feabhas.com/2020/02/running-the-eclipse-mosquitto-mqtt-broker-in-a-docker-container/
+
+### for permanent starting mosquitto use this.  
+docker run -it --restart always --name mosquitto -p 188383:1883 -v $(pwd)/mosquitto:/mosquitto/ eclipse-mosquitto 
 
 
 ### Install MQTT, Influxdb, Telegraf und Grafana   
