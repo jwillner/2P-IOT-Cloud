@@ -1,6 +1,7 @@
 ### 2P-IOT-Cloud
 
 ### dynv6 -> name 2p-cloud.dynv6.net
+### build a easy webside / digital ocean with sqlite / bootstrap / flask / etc -> https://www.digitalocean.com/community/tutorials/how-to-make-a-web-application-using-flask-in-python-3
 
 # https://learnembeddedsystems.co.uk/easy-raspberry-pi-iot-server
 
