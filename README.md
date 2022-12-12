@@ -1,8 +1,10 @@
 ### 2P-IOT-Cloud
 
 ### dynv6 -> name 2p-cloud.dynv6.net
-### build a easy webside / digital ocean with sqlite / bootstrap / flask / etc -> https://www.digitalocean.com/community/tutorials/how-to-make-a-web-application-using-flask-in-python-3
+### build a easy webside / digital ocean with sqlite / bootstrap  bu###/ flask / etc -> https://www.digitalocean.com/community/tutorials/how-to-make-a-web-application-using-flask-in-python-3
 
+
+### build a flask-webserver in docker -> https://www.digitalocean.com/community/tutorials/how-to-build-and-deploy-a-flask-application-using-docker-on-ubuntu-20-04
 # https://learnembeddedsystems.co.uk/easy-raspberry-pi-iot-server
 
 ### Install a digital ocean droplet ubuntu 20.04   
